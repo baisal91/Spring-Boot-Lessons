@@ -32,6 +32,7 @@ public class MovieRecommenderSystemApplication {
 		System.out.println("Movie instances created: "+ Movie.getInstances());
 
 
+		//Test
 	}
 
 }
